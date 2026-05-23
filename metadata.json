@@ -1,0 +1,6 @@
+{
+  "name": "Tinge",
+  "description": "Tinge is a next-generation AI dating platform landing page, featuring digital doubles to break the ice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
